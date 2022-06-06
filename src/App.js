@@ -6,6 +6,7 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Login from './components/Login';
 import Register from './components/Register';
 import Search from './components/Search';
+import View from './components/View';
 
 function App() {
   return (
